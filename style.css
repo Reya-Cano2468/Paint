@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+#myCanvas{
+
+    border-width: 5px;
+border-color: black;
+border-style: ridge;
+background-color: ghostwhite;
+}
+H4{
+    font-family: 'Handlee', cursive;
+    color: dodgerblue;
+}
